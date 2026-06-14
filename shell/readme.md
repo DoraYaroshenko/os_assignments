@@ -24,7 +24,3 @@ A Unix-like shell implemented in C.
 * C
 * Linux
 * POSIX APIs
-
-## Learning Outcomes
-
-This project provides hands-on experience with process creation, process control, command execution, and communication between processes in a Linux environment.
