@@ -20,7 +20,3 @@ Thread-safe queue implementation supporting concurrent access by multiple thread
 
 - C
 - POSIX Threads
-
-## Learning Outcomes
-
-Gained experience designing and implementing synchronization mechanisms and concurrent data structures in a multithreaded environment.
