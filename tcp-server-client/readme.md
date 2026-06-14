@@ -21,7 +21,3 @@ A network application implemented using POSIX sockets.
 * C
 * Linux
 * POSIX Sockets
-
-## Learning Outcomes
-
-This project demonstrates the implementation of network applications using low-level socket APIs and provides practical experience with communication protocols and network programming.
