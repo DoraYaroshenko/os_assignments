@@ -20,7 +20,3 @@ Linux kernel character-device driver implemented as a loadable kernel module.
 
 - C
 - Linux Kernel APIs
-
-## Learning Outcomes
-
-Developed practical experience with kernel programming, device-driver development, and communication between user space and kernel space.
